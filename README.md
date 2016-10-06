@@ -32,7 +32,7 @@ Errors will be logged both in debug and production modes. You can customize erro
 
 Errors are logged via internal Yii2 ```log``` component.
 
-You can enable/disable ErrorHandler for particular error types by setting ```typesToHandle``` options. All error types not specified
+You can enable/disable ErrorHandler for particular error types by setting ```typesToHandle``` option. All error types not specified
 there will be forwarded to internal php error handler:
 
 ```php
