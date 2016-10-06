@@ -1,0 +1,16 @@
+{
+  "name": "cronfy/yii-web-errorhandler",
+  "description": "Yii2 customizable error handler",
+  "type": "extension",
+  "license": "GPL-3.0",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "^2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "cronfy\\yii\\web\\": ""
+    }
+  }
+}
