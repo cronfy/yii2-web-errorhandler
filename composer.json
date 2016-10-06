@@ -1,5 +1,5 @@
 {
-  "name": "cronfy/yii-web-errorhandler",
+  "name": "cronfy/yii2-web-errorhandler",
   "description": "Yii2 customizable error handler",
   "type": "extension",
   "license": "GPL-3.0",
